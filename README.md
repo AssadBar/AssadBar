@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Assad
-- 👀 I’m interested in java and apps building 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @AssadBar on twitter 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Assad, Java & Python & C++ programmer 
+- 👀 I’m interested in App Development 
+- 🌱 I’m currently learning Web development(Front-end)
+- You can reach me on twitter: @AssadBar
 
 <!---
 AssadBar/AssadBar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
