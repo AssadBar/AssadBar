@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Assad, Java & Python & C++ programmer 
-- 👀 I’m interested in App Development 
-- 🌱 I’m currently learning Web development(Front-end)
+- 👋 Hi, I’m Assad, a programmer who loves java the most! 
+- 👀 I’m interested in Full stack Development particularly and computer science in general.
+- 🌱 I’m currently improving my skills
 - You can reach me on twitter: @AssadBar
 
 <!---
